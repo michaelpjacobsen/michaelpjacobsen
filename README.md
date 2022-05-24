@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelpjacobsen
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React and Vue.js
-- 💞️ I’m looking for remote work or a job around Vancouver, BC
+- 📍 I’m located in British Columbia, Canada
 - 📫 Email me at michael.p.jacobsen@gmail.com
